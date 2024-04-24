@@ -1,0 +1,4 @@
+Run Commands:
+
+1. g++ -fopenmp filename.cpp -o filename.out
+2. ./filename.out
